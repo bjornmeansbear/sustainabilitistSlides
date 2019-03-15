@@ -12,5 +12,9 @@ Working through some visual communication things sustainability and graphic desi
 - Work Sans
 - Cormorant Garamond
 
+## 20190315 Libre Not Gratis
+- images from internet archive's flickr 
+- fonts: Savate Serif; League Gothic; Work Sans
+
 ## Anything else? 
 I should do a better job of referencing where everything comes from here.
