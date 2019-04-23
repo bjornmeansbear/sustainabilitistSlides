@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ndbx formatVersion="21" type="file" uuid="501dcd2d-b84c-4fab-97d1-391c26f1e648">
+    <property name="canvasHeight" value="1080"/>
+    <property name="canvasWidth" value="1000"/>
+    <property name="canvasX" value="0"/>
+    <property name="canvasY" value="0"/>
+    <node name="root" prototype="core.network" renderedChild="combine1">
+        <node name="combine1" position="13.00,14.00" prototype="list.combine"/>
+        <node name="combine2" position="-3.00,5.00" prototype="list.combine"/>
+        <node name="combine3" position="13.00,11.00" prototype="list.combine"/>
+        <node name="ellipse1" position="-4.00,3.00" prototype="corevector.ellipse">
+            <port name="width" type="float" value="10.0"/>
+            <port name="height" type="float" value="10.0"/>
+        </node>
+        <node name="integer1" position="6.00,1.00" prototype="math.integer">
+            <port name="value" type="int" value="5"/>
+        </node>
+        <node name="line1" position="1.00,7.00" prototype="corevector.line"/>
+        <node name="line10" position="16.00,9.00" prototype="corevector.line"/>
+        <node name="line2" position="4.00,6.00" prototype="corevector.line"/>
+        <node name="line3" position="5.00,7.00" prototype="corevector.line"/>
+        <node name="line4" position="3.00,9.00" prototype="corevector.line"/>
+        <node name="line5" position="2.00,8.00" prototype="corevector.line"/>
+        <node name="line6" position="8.00,6.00" prototype="corevector.line"/>
+        <node name="line7" position="13.00,6.00" prototype="corevector.line"/>
+        <node name="line8" position="14.00,7.00" prototype="corevector.line"/>
+        <node name="line9" position="15.00,8.00" prototype="corevector.line"/>
+        <node name="rect1" position="1.00,1.00" prototype="corevector.rect">
+            <port name="width" type="float" value="450.0"/>
+            <port name="height" type="float" value="750.0"/>
+        </node>
+        <node name="scatter1" position="1.00,3.00" prototype="corevector.scatter">
+            <port name="amount" type="int" value="50"/>
+            <port name="seed" type="int" value="-2"/>
+        </node>
+        <node name="scatter2" position="4.00,3.00" prototype="corevector.scatter">
+            <port name="amount" type="int" value="50"/>
+            <port name="seed" type="int" value="3"/>
+        </node>
+        <node name="scatter3" position="7.00,3.00" prototype="corevector.scatter">
+            <port name="seed" type="int" value="4"/>
+        </node>
+        <node name="scatter4" position="10.00,3.00" prototype="corevector.scatter">
+            <port name="seed" type="int" value="8"/>
+        </node>
+        <node name="scatter5" position="13.00,3.00" prototype="corevector.scatter">
+            <port name="seed" type="int" value="9"/>
+        </node>
+        <node name="shuffle1" position="1.00,4.00" prototype="list.shuffle"/>
+        <node name="shuffle2" position="7.00,4.00" prototype="list.shuffle"/>
+        <node name="translate1" position="-4.00,6.00" prototype="corevector.translate"/>
+        <conn input="scatter1.shape" output="rect1"/>
+        <conn input="scatter2.shape" output="rect1"/>
+        <conn input="line1.point2" output="scatter2"/>
+        <conn input="scatter2.amount" output="integer1"/>
+        <conn input="scatter1.amount" output="integer1"/>
+        <conn input="scatter3.amount" output="integer1"/>
+        <conn input="scatter4.amount" output="integer1"/>
+        <conn input="scatter3.shape" output="rect1"/>
+        <conn input="scatter4.shape" output="rect1"/>
+        <conn input="line2.point2" output="scatter2"/>
+        <conn input="line3.point2" output="scatter2"/>
+        <conn input="line2.point1" output="scatter3"/>
+        <conn input="line3.point1" output="scatter4"/>
+        <conn input="combine1.list1" output="line1"/>
+        <conn input="translate1.shape" output="ellipse1"/>
+        <conn input="combine2.list1" output="scatter1"/>
+        <conn input="combine2.list2" output="scatter2"/>
+        <conn input="combine2.list3" output="scatter3"/>
+        <conn input="combine2.list4" output="scatter4"/>
+        <conn input="translate1.translate" output="combine2"/>
+        <conn input="line4.point1" output="scatter1"/>
+        <conn input="line4.point2" output="scatter4"/>
+        <conn input="line5.point2" output="scatter3"/>
+        <conn input="line5.point1" output="scatter1"/>
+        <conn input="line6.point2" output="scatter4"/>
+        <conn input="combine1.list2" output="line5"/>
+        <conn input="combine1.list3" output="line4"/>
+        <conn input="line7.point1" output="scatter5"/>
+        <conn input="line8.point1" output="scatter5"/>
+        <conn input="line9.point1" output="scatter5"/>
+        <conn input="combine2.list5" output="scatter5"/>
+        <conn input="line10.point1" output="scatter5"/>
+        <conn input="line10.point2" output="scatter4"/>
+        <conn input="line9.point2" output="scatter3"/>
+        <conn input="line8.point2" output="scatter2"/>
+        <conn input="line7.point2" output="scatter1"/>
+        <conn input="combine3.list1" output="line7"/>
+        <conn input="combine3.list2" output="line8"/>
+        <conn input="combine3.list3" output="line9"/>
+        <conn input="combine3.list4" output="line10"/>
+        <conn input="combine3.list5" output="line6"/>
+        <conn input="scatter5.amount" output="integer1"/>
+        <conn input="scatter5.shape" output="rect1"/>
+        <conn input="combine3.list6" output="line3"/>
+        <conn input="combine3.list7" output="line2"/>
+        <conn input="combine1.list4" output="combine3"/>
+        <conn input="combine1.list5" output="translate1"/>
+        <conn input="shuffle1.list" output="scatter1"/>
+        <conn input="line1.point1" output="shuffle1"/>
+        <conn input="shuffle2.list" output="scatter3"/>
+        <conn input="line6.point1" output="shuffle2"/>
+    </node>
+</ndbx>
