@@ -16,5 +16,12 @@ Working through some visual communication things sustainability and graphic desi
 - images from internet archive's flickr 
 - fonts: Savate Serif; League Gothic; Work Sans
 
+## 20190606 MM3
+- BG Image: https://www.flickr.com/photos/national_library_of_norway/9561066959/
+- League Gothic
+- Space Mono
+- Cormorant Garamond
+- Work Sans
+
 ## Anything else? 
 I should do a better job of referencing where everything comes from here.
