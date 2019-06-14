@@ -25,3 +25,10 @@ Working through some visual communication things sustainability and graphic desi
 
 ## Anything else? 
 I should do a better job of referencing where everything comes from here.
+
+## Future Slides to Make:
+- The present is a little unsatisfying because life is a little unsatisfying / Gil Pender, _Midnight In Paris_
+- It might not work, and that's why we're doing it. / Ryan Jacoby
+- I know only that I don’t know anything. / Socrates
+- The world was not only made for the rich who live in large apartments and villas... / Enzo Mari
+- We say “designers should code!” but what about “engineers should design!” (Why don't we ever flip it???)
