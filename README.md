@@ -36,9 +36,9 @@ Working through some visual communication things sustainability and graphic desi
 - BG Image: <https://www.flickr.com/photos/national_library_of_norway/9561066959/>
 - Fonts:
 
-  - League Gothic:
-  - Space Mono:
-  - Cormorant Garamond:
+  - League Gothic: <https://www.theleagueofmoveabletype.com/league-gothic> & <https://github.com/theleagueof/league-gothic>
+  - Space Mono: <https://fonts.google.com/specimen/Space+Mono> & <https://github.com/googlefonts/spacemono>
+  - Cormorant Garamond: <https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family> & <https://github.com/CatharsisFonts/Cormorant>
   - Work Sans: <http://weiweihuanghuang.github.io/Work-Sans/> & <https://github.com/weiweihuanghuang/Work-Sans>
 
 ## Anything else?
