@@ -25,3 +25,6 @@ Working through some visual communication things sustainability and graphic desi
 
 ## Anything else? 
 I should do a better job of referencing where everything comes from here.
+
+## Slides to make:
+- Victor Papanek / Design for the Real World: "Design can and must become a way in which young people can participate in changing society.
