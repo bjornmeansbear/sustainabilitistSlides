@@ -2,6 +2,10 @@
 
 Working through some visual communication things sustainability and graphic design related
 
+The files contained here created by Kristian Bjornard are all GPL licensed. The creative works themselves are either public domain (most of the "links" from Flickr Commons -- though you'll have to check them all individually for usage in your own projects; mostly links are below; or [Creative Commons CC BY-SA 4.0]https://creativecommons.org/licenses/by-sa/4.0/(https://creativecommons.org/licenses/by-sa/4.0/) 
+
+I will try to keep and updated list in the README.md about licensing for different files, images, etc.
+
 ## Mysterious Elsewhere ideas:
 
 - Images:
