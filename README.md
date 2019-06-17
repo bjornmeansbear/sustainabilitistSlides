@@ -2,7 +2,7 @@
 
 Working through some visual communication things sustainability and graphic design related
 
-The files contained here created by Kristian Bjornard are all GPL licensed. The creative works themselves are either public domain (most of the "links" from Flickr Commons -- though you'll have to check them all individually for usage in your own projects; mostly links are below; or [Creative Commons CC BY-SA 4.0]https://creativecommons.org/licenses/by-sa/4.0/(https://creativecommons.org/licenses/by-sa/4.0/) 
+The files contained here created by Kristian Bjornard are all GPL licensed. The creative works themselves are either public domain (most of the "links" from Flickr Commons -- though you'll have to check them all individually for usage in your own projects; mostly links are below; or [Creative Commons CC BY-SA 4.0]<https://creativecommons.org/licenses/by-sa/4.0/(https://creativecommons.org/licenses/by-sa/4.0/>)
 
 I will try to keep and updated list in the README.md about licensing for different files, images, etc.
 
@@ -26,29 +26,34 @@ I will try to keep and updated list in the README.md about licensing for differe
 
 - Fonts:
 
-  - Savate Serif
-  - Work Sans
-  - Cormorant Garamond
+  - Savate Serif: <https://github.com/GD399-OSD/Savate-Serif>
+  - Work Sans: <http://weiweihuanghuang.github.io/Work-Sans/> & <https://github.com/weiweihuanghuang/Work-Sans>
+  - Cormorant Garamond: <https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family> & <https://github.com/CatharsisFonts/Cormorant>
 
 ## 20190315 Libre Not Gratis
 
 - images from internet archive's flickr
-- fonts: Savate Serif; League Gothic; Work Sans
+- fonts:
+
+  - League Gothic: <https://www.theleagueofmoveabletype.com/league-gothic> & <https://github.com/theleagueof/league-gothic>
+  - Savate Serif: <https://github.com/GD399-OSD/Savate-Serif>
+  - Work Sans: <http://weiweihuanghuang.github.io/Work-Sans/> & <https://github.com/weiweihuanghuang/Work-Sans>
 
 ## 20190606 MM3
 
 - BG Image: <https://www.flickr.com/photos/national_library_of_norway/9561066959/>
 - Fonts:
 
-  - League Gothic: <https://www.theleagueofmoveabletype.com/league-gothic> & <https://github.com/theleagueof/league-gothic>
+  - Steps Mono Bold: <https://github.com/GD399-OSD/Steps-Mono-Bold> (forked from velvetyne's steps mono <http://www.velvetyne.fr/fonts/steps-mono/>)
   - Space Mono: <https://fonts.google.com/specimen/Space+Mono> & <https://github.com/googlefonts/spacemono>
   - Cormorant Garamond: <https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family> & <https://github.com/CatharsisFonts/Cormorant>
   - Work Sans: <http://weiweihuanghuang.github.io/Work-Sans/> & <https://github.com/weiweihuanghuang/Work-Sans>
 
 ## 20190616 Be More Mindful
-- bee: noun project
-- type: sporting grotesque / velvetyne
-- image: tk
+
+- bee: noun project <https://thenounproject.com/bryntaylor/collection/manchester-cityset/?i=709375> -- Free/Non-Members, you must give credit to the icon's designer each time you use their icon. (Creative Commons (CC BY 4.0), useable w/ credit to Bryn Taylor)
+- type: sporting grotesque / velvetyne <http://www.velvetyne.fr/fonts/sporting-grotesque/>
+- image: Beautiful photomechanical prints of Lotus Flowers (1887–1897) by Ogawa Kazumasa. Original from The Rijksmuseum. Digitally enhanced by rawpixel. Free public domain CC0 image <https://www.rawpixel.com/image/523362/lotus-flowers-ogawa-kazumasa>
 
 ## Anything else?
 
