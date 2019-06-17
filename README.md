@@ -67,3 +67,4 @@ I should do a better job of referencing where everything comes from here.
 - The world was not only made for the rich who live in large apartments and villas... / Enzo Mari
 - We say "designers should code!" but what about "engineers should design!" (Why don't we ever flip it???)
 - Victor Papanek / Design for the Real World: "Design can and must become a way in which young people can participate in changing society.
+- The Environmental crisis is a design crisis / Sim Van De Ryn
