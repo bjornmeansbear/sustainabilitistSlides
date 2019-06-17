@@ -1,4 +1,13 @@
-# sustainabilitistSlides
+ommand):
+    def execute(self):
+        selected_files = self.fm.thisdir.get_selection()
+
+        if not selected_files:
+            return
+
+        space = ' '
+        self.fm.execute_command("cdemu -b system unload 0")
+        self# sustainabilitistSlides
 
 Working through some visual communication things sustainability and graphic design related
 
