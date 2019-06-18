@@ -68,3 +68,5 @@ I should do a better job of referencing where everything comes from here.
 - We say "designers should code!" but what about "engineers should design!" (Why don't we ever flip it???)
 - Victor Papanek / Design for the Real World: "Design can and must become a way in which young people can participate in changing society.
 - The Environmental crisis is a design crisis / Sim Van De Ryn
+- “If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” / R. Buckminster Fuller
+- Philosophy, environmental doom, and graphic design
