@@ -18,7 +18,7 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="201907013-MiscMaterials-004.svg"
    enable-background="new"
-   inkscape:export-filename="201907130159-MiscMaterials-004.svg.png"
+   inkscape:export-filename="201907191618-MiscMaterials-004.svg.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -73,16 +73,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="537.93488"
-     inkscape:cy="903.79449"
+     inkscape:zoom="0.31720238"
+     inkscape:cx="959.1971"
+     inkscape:cy="960.34395"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -98,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,16 +108,16 @@
      inkscape:label="Layer 4"
      style="display:inline">
     <image
-       sodipodi:absref="/home/thelibredesigner/Documents/sustainabilitistSlides/links/20190417-ImageIdeas/14765603165_c95c1b13bf_o.jpg"
-       xlink:href="links/20190417-ImageIdeas/14765603165_c95c1b13bf_o.jpg"
-       clip-path="url(#clipPath7948)"
-       transform="rotate(-9.1903688)"
-       width="823.54633"
-       height="562.27502"
-       preserveAspectRatio="none"
-       id="image7945"
+       sodipodi:absref="/home/thelibredesigner/Documents/sustainabilitistSlides/MiscMaterials/../20190417-ImageIdeas/14765603165_c95c1b13bf_o.jpg"
+       xlink:href="../20190417-ImageIdeas/14765603165_c95c1b13bf_o.jpg"
+       y="-24.61067"
        x="-58.745987"
-       y="-24.61067" />
+       id="image7945"
+       preserveAspectRatio="none"
+       height="562.27502"
+       width="823.54633"
+       transform="rotate(-9.1903688)"
+       clip-path="url(#clipPath7948)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -153,7 +153,7 @@
      style="display:inline;filter:url(#filter7967)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:597.90106201px;line-height:1.25;font-family:'space mono';-inkscape-font-specification:'space mono';letter-spacing:0px;word-spacing:0px;fill:#8ca573;fill-opacity:1;stroke:none;stroke-width:0.8968516;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:597.90106201px;line-height:1.25;font-family:'space mono';-inkscape-font-specification:'space mono';letter-spacing:0px;word-spacing:0px;fill:#8ca573;fill-opacity:1;stroke:none;stroke-width:0.8968516"
        x="-8.9685154"
        y="256.92679"
        id="text47"
@@ -162,7 +162,7 @@
          id="tspan45"
          x="-8.9685154"
          y="256.92679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Condensed';letter-spacing:-0.00896849px;fill:#8ca573;stroke:none;stroke-width:0.8968516;">MMIV</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Condensed';letter-spacing:-0.00896849px;fill:#8ca573;stroke:none;stroke-width:0.8968516">MMIV</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
