@@ -1,16 +1,15 @@
 GIMP Palette
 Name: OOKB Libre Graphics
-# https://codepen.io/bjornmeansbear/pen/yMqYxe?editors=0100 
-#
+# https://codepen.io/bjornmeansbear/pen/yMqYxe?editors=0100
 
-000 000 000	Plain Black #000000
+000 000 000 Plain Black #000000
 255 255 255 Plain White #FFFFFF
 
-236 064 121 OOKB Pink
-047 041 038 OOKB Brown
-096 103 103 OOKB Dark Gray
-132 132 120 OOKB Medium Gray
-194 211 186 OOKB Light Gray
+236 064 121 OOKB Pink #EC4079
+047 041 038 OOKB Brown #2F2926
+096 103 103 OOKB Dark Gray #606767
+132 132 120 OOKB Medium Gray #848478
+194 211 186 OOKB Light Gray #C2D3BA
 183 080 081 OOKB Red
 195 115 099 OOKB Orange
 197 192 101 OOKB Yellow
