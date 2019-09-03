@@ -71,3 +71,4 @@ I should do a better job of referencing where everything comes from here.
 - “If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” / R. Buckminster Fuller
 - Philosophy, environmental doom, and graphic design
 - can we really resolve problems that were caused by the rise of industrial and technological progress with the same processes? / Philippe Bihouix
+- "For the artist communication with nature remains the most essential condition. The artist is human; himself nature; part of nature within natural space." / Paul Klee, 1923
