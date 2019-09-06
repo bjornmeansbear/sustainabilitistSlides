@@ -18,7 +18,7 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="20190719-MiscMaterials-005.svg"
    enable-background="new"
-   inkscape:export-filename="201907191618-MiscMaterials-004.svg.png"
+   inkscape:export-filename="20190823-MM005.svg.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -62,18 +62,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15860119"
-     inkscape:cx="2830.1422"
-     inkscape:cy="1340.446"
+     inkscape:zoom="0.22429595"
+     inkscape:cx="1118.666"
+     inkscape:cy="893.77703"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1059"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="668"
+     inkscape:window-height="730"
+     inkscape:window-x="688"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="false"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,14 +177,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:223.98231506px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2f2926;fill-opacity:1;stroke:none;stroke-width:0.55995578"
-       x="249.08725"
-       y="302.905"
+       x="288.50562"
+       y="226.30238"
        id="text4500"
-       transform="rotate(-0.08341401)"><tspan
+       transform="rotate(12.435832)"><tspan
          sodipodi:role="line"
          id="tspan4498"
-         x="249.08725"
-         y="302.905"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:159.06912231px;font-family:'work sans';-inkscape-font-specification:'work sans Light';letter-spacing:-13.22916698px;fill:#2f2926;stroke:none;stroke-width:0.55995578">005</tspan></text>
+         x="288.50562"
+         y="226.30238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:159.06912231px;font-family:'work sans';-inkscape-font-specification:'work sans';letter-spacing:-13.22916698px;fill:#2f2926;stroke:none;stroke-width:0.55995578">005</tspan></text>
   </g>
 </svg>
