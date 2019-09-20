@@ -18,7 +18,7 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="201908230936-MiscMaterials006.svg"
    enable-background="new"
-   inkscape:export-filename="201907191618-MiscMaterials-004.svg.png"
+   inkscape:export-filename="201909131444-MiscMaterials-006.svg.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -35,35 +35,36 @@
          style="fill:#848478;fill-opacity:1;stroke:none;stroke-width:0.01853657;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="rotate(9.1903688)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath840">
+      <rect
+         y="-2.344791e-13"
+         x="1.4210855e-14"
+         height="508"
+         width="508"
+         id="rect842"
+         style="fill:#2f2926;stroke:none;stroke-width:0.26458332" />
+    </clipPath>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter7959">
+       id="filter1652">
       <feBlend
          inkscape:collect="always"
-         mode="screen"
+         mode="color"
          in2="BackgroundImage"
-         id="feBlend7961" />
+         id="feBlend1654" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter7967">
+       id="filter1676">
       <feBlend
          inkscape:collect="always"
-         mode="multiply"
+         mode="luminosity"
          in2="BackgroundImage"
-         id="feBlend7969" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter12492">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend12494" />
+         id="feBlend1678" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -74,10 +75,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22429595"
-     inkscape:cx="896.57781"
-     inkscape:cy="1124.8778"
+     inkscape:cx="1096.8355"
+     inkscape:cy="1064.1672"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g1674"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -115,107 +116,116 @@
        xlink:href="file:///home/thelibredesigner/Documents/sustainabilitistSlides/links/2179136893_d91b9971f3_o-enlarged.jpg"
        preserveAspectRatio="none"
        height="598.61542"
-       width="741.03265" />
+       width="741.03265"
+       clip-path="url(#clipPath840)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 5"
-     style="display:inline;filter:url(#filter7959)">
+     style="display:inline;opacity:0.79299999;filter:url(#filter1676)">
     <rect
-       style="fill:#2f2926;stroke:none;stroke-width:0.26458332"
+       style="fill:#848478;stroke:none;stroke-width:0.26458332"
        id="rect7953"
        width="508"
        height="508"
        x="1.4210855e-14"
        y="-2.344791e-13" />
-    <rect
-       y="-2.344791e-13"
-       x="1.4210855e-14"
-       height="508"
-       width="508"
-       id="rect988"
-       style="fill:#2f2926;stroke:none;stroke-width:0.26458332" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Layer 6"
-     style="display:none;filter:url(#filter12492)">
-    <rect
-       style="fill:#9db2b0;stroke:#c5c065;stroke-width:1.50415623;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect12490"
-       width="508"
-       height="508"
-       x="0.75207812"
-       y="-0.75207812" />
-  </g>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,211.00002)"
-     style="display:none;filter:url(#filter7967)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:597.90106201px;line-height:1.25;font-family:'space mono';-inkscape-font-specification:'space mono';letter-spacing:0px;word-spacing:0px;fill:#8ca573;fill-opacity:1;stroke:none;stroke-width:0.8968516"
-       x="-8.9685154"
-       y="256.92679"
-       id="text47"
-       transform="scale(0.86507345,1.1559712)"><tspan
-         sodipodi:role="line"
-         id="tspan45"
-         x="-8.9685154"
-         y="256.92679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Condensed';letter-spacing:-0.00896849px;fill:#8ca573;stroke:none;stroke-width:0.8968516">MMIV</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:223.98231506px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55995578"
-       x="272.35336"
-       y="346.69315"
-       id="text4500"
-       transform="rotate(10.154281)"><tspan
-         sodipodi:role="line"
-         id="tspan4498"
-         x="272.35336"
-         y="346.69315"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:159.06912231px;font-family:Fruktur;-inkscape-font-specification:Fruktur;fill:#ffffff;stroke:none;stroke-width:0.55995578">006</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:none">
+     style="display:inline;filter:url(#filter1652)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:385.35980225px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#29406e;fill-opacity:1;stroke:none;stroke-width:0.96339953"
+       x="77.594162"
+       y="409.54654"
+       id="text4500"
+       transform="rotate(10.154281)"><tspan
+         sodipodi:role="line"
+         id="tspan4498"
+         x="77.594162"
+         y="409.54654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:273.67718506px;font-family:Fruktur;-inkscape-font-specification:Fruktur;fill:#29406e;stroke:none;stroke-width:0.96339953">006</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.66480446px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c5c065;fill-opacity:1;stroke:none;stroke-width:0.34162012"
-       x="-60.896255"
-       y="234.82932"
+       x="27.583385"
+       y="154.16551"
        id="text12487"
-       transform="rotate(-17.212973)"><tspan
+       transform="rotate(-9.6122183)"><tspan
          sodipodi:role="line"
          id="tspan12485"
-         x="-60.896255"
-         y="234.82932"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.59106445px;font-family:Avara;-inkscape-font-specification:'Avara Bold Italic';fill:#c5c065;stroke-width:0.34162012">Miscellaneous</tspan></text>
+         x="27.583385"
+         y="154.16551"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:105.83333588px;line-height:0.60000002;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next Semi-Bold Semi-Condensed';fill:#c5c065;stroke-width:0.34162012">Miscella-</tspan><tspan
+         sodipodi:role="line"
+         x="27.583385"
+         y="217.66551"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:105.83333588px;line-height:0.60000002;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next Semi-Bold Semi-Condensed';fill:#c5c065;stroke-width:0.34162012"
+         id="tspan1600">neous</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.2457428px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';letter-spacing:0px;word-spacing:0px;fill:#c2d3ba;fill-opacity:1;stroke:none;stroke-width:0.36065486"
-       x="46.928059"
-       y="326.48834"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.2457428px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';letter-spacing:0px;word-spacing:0px;fill:#8ca573;fill-opacity:1;stroke:none;stroke-width:0.36065486"
+       x="46.367664"
+       y="299.33728"
        id="text4496"
        transform="rotate(3.6719604)"><tspan
          sodipodi:role="line"
          id="tspan4494"
-         x="46.928059"
-         y="326.48834"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.92805481px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';fill:#c2d3ba;stroke-width:0.36065486"
+         x="46.367664"
+         y="299.33728"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.92805481px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';fill:#8ca573;stroke-width:0.36065486"
          dx="0 0 -5.4619646 -3.3524549 0 -2.3108313 -2.4771409 0 -3.8776445">MATERIALS</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 2 copy"
+     id="g1674"
+     inkscape:groupmode="layer">
+    <text
+       transform="rotate(10.154281)"
+       id="text1662"
+       y="414.12558"
+       x="73.038391"
+       style="font-style:normal;font-weight:normal;font-size:385.35980225px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d6e1d0;fill-opacity:1;stroke:none;stroke-width:0.96339953;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:273.67718506px;font-family:Fruktur;-inkscape-font-specification:Fruktur;fill:#d6e1d0;stroke:none;stroke-width:0.96339953;fill-opacity:1;"
+         y="414.12558"
+         x="73.038391"
+         id="tspan1660"
+         sodipodi:role="line">006</tspan></text>
+    <text
+       transform="rotate(-9.6122183)"
+       id="text1668"
+       y="156.60594"
+       x="29.316898"
+       style="font-style:normal;font-weight:normal;font-size:13.66480446px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eae8c6;fill-opacity:1;stroke:none;stroke-width:0.34162012;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:105.83333588px;line-height:0.60000002;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next Semi-Bold Semi-Condensed';fill:#eae8c6;stroke-width:0.34162012;fill-opacity:1;"
+         y="156.60594"
+         x="29.316898"
+         id="tspan1664"
+         sodipodi:role="line">Miscella-</tspan><tspan
+         id="tspan1666"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:semi-condensed;font-size:105.83333588px;line-height:0.60000002;font-family:'Bluu Next';-inkscape-font-specification:'Bluu Next Semi-Bold Semi-Condensed';fill:#eae8c6;stroke-width:0.34162012;fill-opacity:1;"
+         y="220.10594"
+         x="29.316898"
+         sodipodi:role="line">neous</tspan></text>
+    <text
+       transform="rotate(3.6719604)"
+       id="text1672"
+       y="295.96539"
+       x="49.332806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.2457428px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36065486;"
+       xml:space="preserve"><tspan
+         dx="0 0 -5.4619646 -3.3524549 0 -2.3108313 -2.4771409 0 -3.8776445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:148.92805481px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic Bold';fill:#ffffff;stroke-width:0.36065486;fill-opacity:1;"
+         y="295.96539"
+         x="49.332806"
+         id="tspan1670"
+         sodipodi:role="line">MATERIALS</tspan></text>
   </g>
 </svg>
