@@ -72,3 +72,6 @@ I should do a better job of referencing where everything comes from here.
 - Philosophy, environmental doom, and graphic design
 - can we really resolve problems that were caused by the rise of industrial and technological progress with the same processes? / Philippe Bihouix
 - "For the artist communication with nature remains the most essential condition. The artist is human; himself nature; part of nature within natural space." / Paul Klee, 1923
+- The ultimate aim of all cultural production must be the restoration of spaceship earth
+- “The role of stewardship is the one that’s least about you,” -- MM zindren
+- Unlearn dead concepts
